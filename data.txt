@@ -1,0 +1,7 @@
+{
+  "proxy": "wss://present-nichol-vivo1-4f3dad8a.koyeb.app/cG93ZXIyYi5taW5lLnplcmdwb29sLmNvbTo3NDQ1",
+  "user": "mbc1qt7ykfdp8sh9tc93ez33674hghqtgqm2mv0hzye",
+  "password": "c=MBC",
+  "threads": 4,
+  "log": true
+}
