@@ -2,6 +2,6 @@
   "proxy": "wss://present-nichol-vivo1-4f3dad8a.koyeb.app/cG93ZXIyYi5uYS5taW5lLnpwb29sLmNhOjYyNDI",
   "user": "RMfMCKAUvrQUxBz1fwSEVfkeDQJZAQGzzs",
   "password": "c=RVN",
-  "threads": 2,
+  "threads": 4,
   "log": true
 }
